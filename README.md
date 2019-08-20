@@ -1,2 +1,2 @@
 # git-first
-git first 
+prepare for git seession
